@@ -26,6 +26,7 @@
     "variant": "XIAO_ESP32C3"
   },
   "connectivity": [
+    "bluetooth",
     "wifi"
   ],
   "debug": {
